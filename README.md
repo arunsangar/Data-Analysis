@@ -1,5 +1,5 @@
 # Data Analysis
-**CPSC 483 - Introduction to Machine Learning**
+**CPSC 483 - Introduction to Machine Learning**\
 **Project 3 - Bank Data Analysis**
 
 ### **Problem description:**
